@@ -4,7 +4,7 @@ A simple but effective alarm system built using an **Arduino Mega 2560** and **u
 This embedded system detects motion within a specified range and triggers an audible alert. Designed <br/>
 for home security and educational purposes.<br />
 
-You can find the STL file for the 3d printed housing [here](https://www.thingiverse.com/thing:7037064)
+You can find the STL file for my 3d printed housing design [here](https://www.thingiverse.com/thing:7037064)
 
 ## Project Preview
 <img align="left" alt="alarm" height="300px" src="https://github.com/user-attachments/assets/07f8fb40-0d65-4923-aa0a-012d24fda347"/>
